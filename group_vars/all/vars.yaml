@@ -1,6 +1,6 @@
 ---
 cluster_name: kubernetes.example.com
-state_store: s3://kops-state-store-example
+state_store: s3://kops-state-store-devops-1
 
 ## Remote access
 ssh_public_key: ~/.ssh/id_rsa.pub
